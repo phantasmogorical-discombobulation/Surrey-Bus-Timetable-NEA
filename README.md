@@ -7,3 +7,5 @@ This app utilises the following:
 - findthatpostcode.uk to access data on postcodes
 - OpenStreetMap via Kivy MapView library
 - Python Kivy for user interface
+
+Due to this being an assessed A Level project, marks were awarded for commenting on the code, hence the excessive comments in each code files.
